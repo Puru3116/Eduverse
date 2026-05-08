@@ -1,0 +1,27 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <!-- Box -->
+  <rect x="200" y="150" width="100" height="100" rx="10" fill="#1e293b" stroke="#6366f1" stroke-width="2"/>
+  
+  <!-- Force Arrow -->
+  <line x1="100" y1="200" x2="190" y2="200" stroke="#6366f1" stroke-width="8" marker-end="url(#arrow-blue)"/>
+  <text x="145" y="180" fill="#6366f1" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">FORCE</text>
+  
+  <!-- Distance Arrow -->
+  <line x1="250" y1="300" x2="450" y2="300" stroke="#10b981" stroke-width="4" marker-end="url(#arrow-green)"/>
+  <text x="350" y="325" fill="#10b981" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">DISTANCE</text>
+  
+  <text x="300" y="100" fill="#ffffff" font-family="sans-serif" font-weight="black" font-size="28" text-anchor="middle">WORK = FORCE × DISTANCE</text>
+  
+  <rect x="400" y="150" width="100" height="100" rx="10" fill="#1e293b" stroke="#10b981" stroke-width="2" stroke-dasharray="5,5" opacity="0.5"/>
+
+  <defs>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#6366f1" />
+    </marker>
+    <marker id="arrow-green" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#10b981" />
+    </marker>
+  </defs>
+</svg>

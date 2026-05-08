@@ -1,0 +1,23 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <!-- Mirrors -->
+  <line x1="150" y1="50" x2="150" y2="350" stroke="#94a3b8" stroke-width="8"/>
+  <line x1="450" y1="50" x2="450" y2="350" stroke="#94a3b8" stroke-width="8"/>
+  
+  <!-- Object -->
+  <circle cx="300" cy="200" r="15" fill="#6366f1"/>
+  
+  <!-- Reflections -->
+  <circle cx="150" cy="200" r="15" fill="#6366f1" opacity="0.4"/>
+  <circle cx="0" cy="200" r="15" fill="#6366f1" opacity="0.2"/>
+  
+  <circle cx="450" cy="200" r="15" fill="#6366f1" opacity="0.4"/>
+  <circle cx="600" cy="200" r="15" fill="#6366f1" opacity="0.2"/>
+  
+  <!-- Light Paths -->
+  <path d="M300 200 L150 200 L450 200 L150 200" fill="none" stroke="#fef08a" stroke-width="1" stroke-dasharray="5,5"/>
+  
+  <text x="300" y="50" fill="#ffffff" font-family="sans-serif" font-weight="black" font-size="20" text-anchor="middle">PARALLEL MIRRORS</text>
+  <text x="300" y="350" fill="#94a3b8" font-family="sans-serif" font-size="14" text-anchor="middle">Infinite images are formed between parallel mirrors.</text>
+</svg>

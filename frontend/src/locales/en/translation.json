@@ -1,0 +1,16 @@
+{
+  "landing": {
+    "welcome": "Welcome to",
+    "description": "The interactive universe where learning meets adventure. Choose your path to begin!",
+    "im_student": "I'm a Student",
+    "student_desc": "Dive into interactive games, solve quests, and track your achievements across the universe!",
+    "enter_portal": "Enter portal",
+    "im_teacher": "I'm a Teacher",
+    "teacher_desc": "Manage your classrooms, monitor student progress, and customize the learning experience.",
+    "access_dashboard": "Access dashboard"
+  },
+  "common": {
+    "language": "Language",
+    "select_language": "Select Language"
+  }
+}

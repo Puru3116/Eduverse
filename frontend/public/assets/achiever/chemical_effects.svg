@@ -1,0 +1,26 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <text x="300" y="50" fill="#ffffff" font-family="sans-serif" font-weight="black" font-size="24" text-anchor="middle">CHEMICAL EFFECTS (ELECTROLYSIS)</text>
+
+  <!-- Beaker -->
+  <rect x="200" y="100" width="200" height="200" rx="10" fill="#38bdf8" opacity="0.2" stroke="#ffffff" stroke-width="2"/>
+  <rect x="200" y="150" width="200" height="150" rx="10" fill="#38bdf8" opacity="0.3"/> <!-- Liquid -->
+  
+  <!-- Electrodes -->
+  <rect x="240" y="80" width="20" height="180" fill="#475569" stroke="#ffffff"/>
+  <rect x="340" y="80" width="20" height="180" fill="#475569" stroke="#ffffff"/>
+  
+  <text x="250" y="70" fill="#ffffff" font-size="10" text-anchor="middle">ANODE (+)</text>
+  <text x="350" y="70" fill="#ffffff" font-size="10" text-anchor="middle">CATHODE (-)</text>
+  
+  <!-- Bubbles -->
+  <circle cx="250" cy="200" r="4" fill="#ffffff" opacity="0.6">
+    <animate attributeName="cy" from="200" to="150" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="220" r="4" fill="#ffffff" opacity="0.6">
+    <animate attributeName="cy" from="220" to="150" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <text x="300" y="350" fill="#94a3b8" font-family="sans-serif" font-size="14" text-anchor="middle">Chemical Change in Electrolyte</text>
+</svg>

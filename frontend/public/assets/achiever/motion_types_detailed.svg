@@ -1,0 +1,60 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  <line x1="300" y1="20" x2="300" y2="380" stroke="#1e293b" stroke-width="2"/>
+  <line x1="20" y1="200" x2="580" y2="200" stroke="#1e293b" stroke-width="2"/>
+  
+  <!-- Rectilinear -->
+  <g transform="translate(0,0)">
+    <text x="150" y="40" fill="#6366f1" font-family="sans-serif" font-weight="black" font-size="14" text-anchor="middle">RECTILINEAR</text>
+    <line x1="40" y1="120" x2="260" y2="120" stroke="#475569" stroke-width="4" stroke-dasharray="8,4"/>
+    <rect x="60" y="105" width="40" height="20" rx="4" fill="#6366f1"/>
+    <circle cx="70" cy="125" r="4" fill="#312e81"/>
+    <circle cx="90" cy="125" r="4" fill="#312e81"/>
+    <path d="M110 115 L140 115" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- Circular -->
+  <g transform="translate(300,0)">
+    <text x="150" y="40" fill="#f59e0b" font-family="sans-serif" font-weight="black" font-size="14" text-anchor="middle">CIRCULAR</text>
+    <circle cx="150" cy="120" r="50" stroke="#475569" stroke-width="2" fill="none" stroke-dasharray="4,4"/>
+    <circle cx="150" cy="120" r="5" fill="#f59e0b"/>
+    <line x1="150" y1="120" x2="190" y2="90" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M210 100 A 60 60 0 0 1 210 140" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#arrow-amber)"/>
+  </g>
+
+  <!-- Periodic -->
+  <g transform="translate(0,200)">
+    <text x="150" y="40" fill="#10b981" font-family="sans-serif" font-weight="black" font-size="14" text-anchor="middle">PERIODIC</text>
+    <path d="M80 120 Q 150 180 220 120" stroke="#475569" stroke-width="2" fill="none"/>
+    <circle cx="150" cy="80" r="4" fill="#10b981"/>
+    <line x1="150" y1="80" x2="110" y2="140" stroke="#10b981" stroke-width="2"/>
+    <circle cx="110" cy="140" r="10" fill="#10b981"/>
+    <path d="M120 150 A 40 40 0 0 0 180 150" stroke="#10b981" stroke-width="2" fill="none" marker-end="url(#arrow-emerald)"/>
+  </g>
+
+  <!-- Oscillatory -->
+  <g transform="translate(300,200)">
+    <text x="150" y="40" fill="#ec4899" font-family="sans-serif" font-weight="black" font-size="14" text-anchor="middle">OSCILLATORY</text>
+    <line x1="100" y1="120" x2="200" y2="120" stroke="#475569" stroke-width="2" stroke-dasharray="4,4"/>
+    <circle cx="150" cy="120" r="15" fill="#ec4899" opacity="0.5"/>
+    <path d="M120 140 L180 140" stroke="#ec4899" stroke-width="2" fill="none" marker-start="url(#arrow-pink-start)" marker-end="url(#arrow-pink)"/>
+  </g>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#6366f1" />
+    </marker>
+    <marker id="arrow-amber" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#f59e0b" />
+    </marker>
+    <marker id="arrow-emerald" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#10b981" />
+    </marker>
+    <marker id="arrow-pink" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#ec4899" />
+    </marker>
+    <marker id="arrow-pink-start" markerWidth="10" markerHeight="10" refX="9" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M9,0 L9,6 L0,3 z" fill="#ec4899" />
+    </marker>
+  </defs>
+</svg>

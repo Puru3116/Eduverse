@@ -1,0 +1,33 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <!-- Contact Force -->
+  <g transform="translate(50, 50)">
+    <rect width="230" height="300" rx="20" fill="#1e293b" stroke="#6366f1" stroke-width="2"/>
+    <text x="115" y="40" fill="#6366f1" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">CONTACT FORCE</text>
+    <circle cx="80" cy="150" r="30" fill="#475569"/>
+    <path d="M160 150 L120 150" stroke="#6366f1" stroke-width="8" marker-end="url(#arrow-blue)"/>
+    <text x="115" y="220" fill="#94a3b8" font-family="sans-serif" font-size="12" text-anchor="middle">Requires Physical Touch</text>
+    <text x="115" y="240" fill="#ffffff" font-family="sans-serif" font-weight="bold" font-size="10" text-anchor="middle">(Push, Pull, Friction)</text>
+  </g>
+  
+  <!-- Non-Contact Force -->
+  <g transform="translate(320, 50)">
+    <rect width="230" height="300" rx="20" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
+    <text x="115" y="40" fill="#10b981" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">NON-CONTACT FORCE</text>
+    <circle cx="115" cy="120" r="25" fill="#f59e0b"/>
+    <path d="M115 160 L115 220" stroke="#10b981" stroke-width="4" stroke-dasharray="5,3" marker-end="url(#arrow-green)"/>
+    <rect x="90" y="230" width="50" height="10" fill="#475569"/>
+    <text x="115" y="270" fill="#94a3b8" font-family="sans-serif" font-size="12" text-anchor="middle">Acts over a Distance</text>
+    <text x="115" y="290" fill="#ffffff" font-family="sans-serif" font-weight="bold" font-size="10" text-anchor="middle">(Gravity, Magnetism)</text>
+  </g>
+
+  <defs>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#6366f1" />
+    </marker>
+    <marker id="arrow-green" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#10b981" />
+    </marker>
+  </defs>
+</svg>

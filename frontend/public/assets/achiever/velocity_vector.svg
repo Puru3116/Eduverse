@@ -1,0 +1,30 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <!-- Plane -->
+  <path d="M100 200 L250 180 L300 120 L350 180 L500 200 L350 220 L300 280 L250 220 Z" fill="#6366f1"/>
+  
+  <!-- Velocity Arrow -->
+  <line x1="300" y1="200" x2="550" y2="200" stroke="#10b981" stroke-width="8" marker-end="url(#arrow-green)"/>
+  <text x="425" y="180" fill="#10b981" font-family="sans-serif" font-weight="black" font-size="24" text-anchor="middle">500 km/h</text>
+  <text x="560" y="205" fill="#10b981" font-family="sans-serif" font-weight="black" font-size="18">NORTH</text>
+  
+  <!-- Speed vs Velocity comparison -->
+  <g transform="translate(50, 300)">
+    <rect width="200" height="60" rx="10" fill="#1e293b"/>
+    <text x="100" y="25" fill="#94a3b8" font-family="sans-serif" font-size="12" text-anchor="middle">SPEED</text>
+    <text x="100" y="50" fill="#ffffff" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">500 km/h</text>
+  </g>
+  
+  <g transform="translate(350, 300)">
+    <rect width="200" height="60" rx="10" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
+    <text x="100" y="25" fill="#10b981" font-family="sans-serif" font-size="12" text-anchor="middle">VELOCITY</text>
+    <text x="100" y="50" fill="#ffffff" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">500 km/h NORTH</text>
+  </g>
+
+  <defs>
+    <marker id="arrow-green" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#10b981" />
+    </marker>
+  </defs>
+</svg>

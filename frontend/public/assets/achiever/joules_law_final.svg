@@ -1,0 +1,44 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" rx="20" fill="#020617"/>
+  
+  <text x="300" y="50" fill="#ffffff" font-family="sans-serif" font-weight="black" font-size="28" text-anchor="middle" text-decoration="underline">JOULE'S LAW OF HEATING</text>
+  
+  <text x="300" y="100" fill="#ffffff" font-family="sans-serif" font-size="16" text-anchor="middle">Heat (H) produced is proportional to the square of</text>
+  <text x="300" y="125" fill="#f43f5e" font-family="sans-serif" font-weight="black" font-size="18" text-anchor="middle">CURRENT (I²), RESISTANCE (R), and TIME (t)</text>
+  
+  <text x="300" y="180" fill="#10b981" font-family="sans-serif" font-weight="black" font-size="40" text-anchor="middle">H = I²Rt</text>
+  
+  <!-- Row 1 -->
+  <g transform="translate(50, 220)">
+    <rect width="230" height="150" rx="15" fill="#1e293b"/>
+    <!-- Heating Coil -->
+    <path d="M40 80 Q 55 40 70 80 Q 85 40 100 80 Q 115 40 130 80" fill="none" stroke="#ef4444" stroke-width="4"/>
+    <text x="115" y="120" fill="#ffffff" font-size="12" text-anchor="middle">Current produces heat.</text>
+  </g>
+  
+  <g transform="translate(320, 220)">
+    <rect width="230" height="150" rx="15" fill="#1e293b"/>
+    <!-- Bulb -->
+    <circle cx="115" cy="60" r="25" fill="#fef08a" opacity="0.8"/>
+    <text x="115" y="120" fill="#ffffff" font-size="12" text-anchor="middle">More current -> more heat.</text>
+  </g>
+  
+  <!-- Row 2 -->
+  <g transform="translate(50, 400)">
+    <rect width="230" height="150" rx="15" fill="#1e293b"/>
+    <!-- Melting Wire -->
+    <path d="M40 75 L100 75 M130 75 L190 75" stroke="#94a3b8" stroke-width="4"/>
+    <path d="M100 75 L115 60 L130 75" stroke="#ef4444" stroke-width="2" stroke-dasharray="2,2"/>
+    <text x="115" y="120" fill="#ffffff" font-size="12" text-anchor="middle">Excess current causes melting.</text>
+  </g>
+  
+  <g transform="translate(320, 400)">
+    <rect width="230" height="150" rx="15" fill="#1e293b"/>
+    <!-- Iron -->
+    <path d="M50 100 L180 100 Q 180 60 100 60 L50 100 Z" fill="#475569" stroke="#ffffff"/>
+    <text x="115" y="120" fill="#ffffff" font-size="12" text-anchor="middle">Energy changes to heat.</text>
+  </g>
+  
+  <rect x="220" y="560" width="160" height="30" rx="5" fill="#10b981" opacity="0.2" stroke="#10b981"/>
+  <text x="300" y="580" fill="#10b981" font-family="sans-serif" font-weight="black" font-size="18" text-anchor="middle">Heat ∝ I²</text>
+</svg>

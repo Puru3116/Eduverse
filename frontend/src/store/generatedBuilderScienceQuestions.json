@@ -1,0 +1,5786 @@
+{
+  "plants-animals": {
+    "practice": [
+      {
+        "id": "builder-sci-plants-animals-p-1",
+        "q": "Which animal is cold-blooded?",
+        "options": [
+          "Lizard",
+          "Dog",
+          "Bird",
+          "Human"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-2",
+        "q": "Animals that eat only plants are called:",
+        "options": [
+          "Carnivores",
+          "Decomposers",
+          "Herbivores",
+          "Omnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-3",
+        "q": "Which part of the plant absorbs water from the soil?",
+        "options": [
+          "Leaves",
+          "Flowers",
+          "Stem",
+          "Roots"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-4",
+        "q": "How many chambers does a human heart have?",
+        "options": [
+          "1",
+          "3",
+          "2",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-5",
+        "q": "Plants release ___ during the day.",
+        "options": [
+          "Carbon Dioxide",
+          "Nitrogen",
+          "Oxygen",
+          "Hydrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-6",
+        "q": "The green pigment in leaves is called:",
+        "options": [
+          "Chlorophyll",
+          "Stomata",
+          "Cytoplasm",
+          "Xylem"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-7",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Lizard",
+          "Human",
+          "Dog",
+          "Bird"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-8",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Decomposers",
+          "Carnivores",
+          "Omnivores",
+          "Herbivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-9",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Decomposers",
+          "Omnivores",
+          "Herbivores",
+          "Carnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-10",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Decomposers",
+          "Omnivores",
+          "Carnivores",
+          "Herbivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-11",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Chlorophyll",
+          "Cytoplasm",
+          "Stomata",
+          "Xylem"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-12",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Hydrogen",
+          "Nitrogen",
+          "Oxygen",
+          "Carbon Dioxide"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-13",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Cytoplasm",
+          "Chlorophyll",
+          "Xylem",
+          "Stomata"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-14",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Omnivores",
+          "Decomposers",
+          "Herbivores",
+          "Carnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-15",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Human",
+          "Lizard",
+          "Dog",
+          "Bird"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-16",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "3",
+          "1",
+          "4",
+          "2"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-17",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Flowers",
+          "Leaves",
+          "Roots",
+          "Stem"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-18",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Chlorophyll",
+          "Cytoplasm",
+          "Stomata",
+          "Xylem"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-19",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Hydrogen",
+          "Carbon Dioxide",
+          "Nitrogen",
+          "Oxygen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-20",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Stomata",
+          "Chlorophyll",
+          "Xylem",
+          "Cytoplasm"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-21",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Stem",
+          "Flowers",
+          "Roots",
+          "Leaves"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-22",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Herbivores",
+          "Omnivores",
+          "Carnivores",
+          "Decomposers"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-23",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Dog",
+          "Bird",
+          "Human",
+          "Lizard"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-24",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Carbon Dioxide",
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-25",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Leaves",
+          "Stem",
+          "Roots",
+          "Flowers"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-26",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Roots",
+          "Leaves",
+          "Flowers",
+          "Stem"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-27",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Leaves",
+          "Roots",
+          "Flowers",
+          "Stem"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-28",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "4",
+          "2",
+          "1",
+          "3"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-29",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Nitrogen",
+          "Hydrogen",
+          "Carbon Dioxide",
+          "Oxygen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-p-30",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Xylem",
+          "Cytoplasm",
+          "Chlorophyll",
+          "Stomata"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      }
+    ],
+    "challenge": [
+      {
+        "id": "builder-sci-plants-animals-c-1",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Bird",
+          "Lizard",
+          "Dog",
+          "Human"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-2",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Carnivores",
+          "Herbivores",
+          "Decomposers",
+          "Omnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-3",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Leaves",
+          "Roots",
+          "Stem",
+          "Flowers"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-4",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Decomposers",
+          "Herbivores",
+          "Omnivores",
+          "Carnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-5",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Carbon Dioxide",
+          "Hydrogen",
+          "Nitrogen",
+          "Oxygen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-6",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Herbivores",
+          "Decomposers",
+          "Omnivores",
+          "Carnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-7",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Omnivores",
+          "Decomposers",
+          "Herbivores",
+          "Carnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-8",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Nitrogen",
+          "Hydrogen",
+          "Carbon Dioxide",
+          "Oxygen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-9",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Carbon Dioxide",
+          "Oxygen",
+          "Hydrogen",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-10",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Decomposers",
+          "Omnivores",
+          "Herbivores",
+          "Carnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-11",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Cytoplasm",
+          "Stomata",
+          "Xylem",
+          "Chlorophyll"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-12",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Omnivores",
+          "Herbivores",
+          "Carnivores",
+          "Decomposers"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-13",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Xylem",
+          "Chlorophyll",
+          "Cytoplasm",
+          "Stomata"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-14",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "1"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-15",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Xylem",
+          "Stomata",
+          "Cytoplasm",
+          "Chlorophyll"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-16",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Oxygen",
+          "Carbon Dioxide",
+          "Hydrogen",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-17",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Chlorophyll",
+          "Stomata",
+          "Xylem",
+          "Cytoplasm"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-18",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Cytoplasm",
+          "Xylem",
+          "Stomata",
+          "Chlorophyll"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-19",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "4",
+          "2",
+          "1",
+          "3"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-20",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Lizard",
+          "Human",
+          "Bird",
+          "Dog"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-21",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Herbivores",
+          "Omnivores",
+          "Carnivores",
+          "Decomposers"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-22",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "4",
+          "3",
+          "2",
+          "1"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-23",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "4",
+          "3",
+          "2",
+          "1"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-24",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Dog",
+          "Bird",
+          "Lizard",
+          "Human"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-25",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "3",
+          "4",
+          "2",
+          "1"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-26",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-27",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Leaves",
+          "Stem",
+          "Roots",
+          "Flowers"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-28",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Leaves",
+          "Flowers",
+          "Roots",
+          "Stem"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-29",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Herbivores",
+          "Omnivores",
+          "Decomposers",
+          "Carnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-c-30",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Bird",
+          "Human",
+          "Dog",
+          "Lizard"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      }
+    ],
+    "test": [
+      {
+        "id": "builder-sci-plants-animals-t-1",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-2",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "2",
+          "3",
+          "1",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-3",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Hydrogen",
+          "Oxygen",
+          "Carbon Dioxide",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-4",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "2",
+          "4",
+          "3",
+          "1"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-5",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Chlorophyll",
+          "Cytoplasm",
+          "Xylem",
+          "Stomata"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-6",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Carbon Dioxide",
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-7",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Stomata",
+          "Cytoplasm",
+          "Xylem",
+          "Chlorophyll"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-8",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Carnivores",
+          "Decomposers",
+          "Omnivores",
+          "Herbivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-9",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen",
+          "Carbon Dioxide"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-10",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Xylem",
+          "Chlorophyll",
+          "Stomata",
+          "Cytoplasm"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-11",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Carnivores",
+          "Decomposers",
+          "Omnivores",
+          "Herbivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-12",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "3",
+          "1",
+          "2",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-13",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Oxygen",
+          "Hydrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-14",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Leaves",
+          "Roots",
+          "Flowers",
+          "Stem"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-15",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-16",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Dog",
+          "Lizard",
+          "Human",
+          "Bird"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-17",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "2",
+          "4",
+          "1",
+          "3"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-18",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Oxygen",
+          "Hydrogen",
+          "Nitrogen",
+          "Carbon Dioxide"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-19",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen",
+          "Carbon Dioxide"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-20",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Hydrogen",
+          "Oxygen",
+          "Carbon Dioxide",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-21",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Carnivores",
+          "Omnivores",
+          "Herbivores",
+          "Decomposers"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-22",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Dog",
+          "Human",
+          "Bird",
+          "Lizard"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-23",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "2",
+          "3",
+          "1",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-24",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Decomposers",
+          "Omnivores",
+          "Carnivores",
+          "Herbivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-25",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Bird",
+          "Human",
+          "Dog",
+          "Lizard"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-26",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Oxygen",
+          "Carbon Dioxide",
+          "Hydrogen",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-27",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Lizard",
+          "Human",
+          "Bird",
+          "Dog"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-28",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Hydrogen",
+          "Nitrogen",
+          "Oxygen",
+          "Carbon Dioxide"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-29",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Flowers",
+          "Leaves",
+          "Stem",
+          "Roots"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-30",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Flowers",
+          "Leaves",
+          "Roots",
+          "Stem"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-31",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Leaves",
+          "Roots",
+          "Flowers",
+          "Stem"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-32",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Nitrogen",
+          "Hydrogen",
+          "Oxygen",
+          "Carbon Dioxide"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-33",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Carbon Dioxide",
+          "Hydrogen",
+          "Nitrogen",
+          "Oxygen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-34",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Herbivores",
+          "Omnivores",
+          "Decomposers",
+          "Carnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-35",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Flowers",
+          "Stem",
+          "Leaves",
+          "Roots"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-36",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Stomata",
+          "Xylem",
+          "Cytoplasm",
+          "Chlorophyll"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-37",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Omnivores",
+          "Carnivores",
+          "Decomposers",
+          "Herbivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-38",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Chlorophyll",
+          "Cytoplasm",
+          "Xylem",
+          "Stomata"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-39",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Stomata",
+          "Xylem",
+          "Cytoplasm",
+          "Chlorophyll"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-40",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "4",
+          "3",
+          "2",
+          "1"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-41",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "1",
+          "2",
+          "4",
+          "3"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-42",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Dog",
+          "Bird",
+          "Lizard",
+          "Human"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-43",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "3",
+          "1",
+          "2",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-44",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Dog",
+          "Human",
+          "Bird",
+          "Lizard"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-45",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-46",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Lizard",
+          "Dog",
+          "Human",
+          "Bird"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-47",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Leaves",
+          "Flowers",
+          "Stem",
+          "Roots"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-48",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Roots",
+          "Flowers",
+          "Leaves",
+          "Stem"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-49",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Oxygen",
+          "Hydrogen",
+          "Carbon Dioxide",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-50",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Stem",
+          "Roots",
+          "Flowers",
+          "Leaves"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-51",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Stomata",
+          "Xylem",
+          "Cytoplasm",
+          "Chlorophyll"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-52",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Lizard",
+          "Human",
+          "Bird",
+          "Dog"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-53",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Flowers",
+          "Stem",
+          "Leaves",
+          "Roots"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-54",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-55",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Lizard",
+          "Human",
+          "Bird",
+          "Dog"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-56",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Roots",
+          "Leaves",
+          "Stem",
+          "Flowers"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-57",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "1",
+          "3",
+          "2",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-58",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Oxygen",
+          "Hydrogen",
+          "Carbon Dioxide",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-59",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Stomata",
+          "Xylem",
+          "Chlorophyll",
+          "Cytoplasm"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-60",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Dog",
+          "Human",
+          "Bird",
+          "Lizard"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-61",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Oxygen",
+          "Hydrogen",
+          "Carbon Dioxide",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-62",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Human",
+          "Lizard",
+          "Bird",
+          "Dog"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-63",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Carnivores",
+          "Omnivores",
+          "Herbivores",
+          "Decomposers"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-64",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Dog",
+          "Lizard",
+          "Bird",
+          "Human"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-65",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Stem",
+          "Flowers",
+          "Roots",
+          "Leaves"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-66",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Decomposers",
+          "Omnivores",
+          "Herbivores",
+          "Carnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-67",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Chlorophyll",
+          "Xylem",
+          "Cytoplasm",
+          "Stomata"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-68",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "1",
+          "3",
+          "2",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-69",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Herbivores",
+          "Carnivores",
+          "Decomposers",
+          "Omnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-70",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Roots",
+          "Stem",
+          "Flowers",
+          "Leaves"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-71",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Carbon Dioxide",
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-72",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Human",
+          "Lizard",
+          "Dog",
+          "Bird"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-73",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Cytoplasm",
+          "Chlorophyll",
+          "Xylem",
+          "Stomata"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-74",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Herbivores",
+          "Carnivores",
+          "Decomposers",
+          "Omnivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-75",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Roots",
+          "Flowers",
+          "Stem",
+          "Leaves"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-76",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Lizard",
+          "Human",
+          "Dog",
+          "Bird"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-77",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Lizard",
+          "Dog",
+          "Human",
+          "Bird"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-78",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Xylem",
+          "Chlorophyll",
+          "Stomata",
+          "Cytoplasm"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-79",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Oxygen",
+          "Hydrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-80",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Roots",
+          "Stem",
+          "Flowers",
+          "Leaves"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-81",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Oxygen",
+          "Hydrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-82",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Cytoplasm",
+          "Xylem",
+          "Chlorophyll",
+          "Stomata"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-83",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-84",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Chlorophyll",
+          "Stomata",
+          "Xylem",
+          "Cytoplasm"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-85",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Roots",
+          "Flowers",
+          "Stem",
+          "Leaves"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-86",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-87",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Carbon Dioxide",
+          "Hydrogen",
+          "Nitrogen",
+          "Oxygen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-88",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "1",
+          "4",
+          "3",
+          "2"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-89",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Carnivores",
+          "Omnivores",
+          "Decomposers",
+          "Herbivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-90",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Chlorophyll",
+          "Cytoplasm",
+          "Stomata",
+          "Xylem"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-91",
+        "q": "Which part of the plant absorbs water from the soil? (Advanced Concept)",
+        "options": [
+          "Roots",
+          "Flowers",
+          "Stem",
+          "Leaves"
+        ],
+        "a": "Roots",
+        "explanation": "Roots also anchor the plant."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-92",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Carbon Dioxide",
+          "Oxygen",
+          "Hydrogen",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-93",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Hydrogen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Oxygen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-94",
+        "q": "The green pigment in leaves is called: (Advanced Concept)",
+        "options": [
+          "Chlorophyll",
+          "Xylem",
+          "Stomata",
+          "Cytoplasm"
+        ],
+        "a": "Chlorophyll",
+        "explanation": "Chlorophyll is essential for photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-95",
+        "q": "Animals that eat only plants are called: (Advanced Concept)",
+        "options": [
+          "Carnivores",
+          "Decomposers",
+          "Omnivores",
+          "Herbivores"
+        ],
+        "a": "Herbivores",
+        "explanation": "Examples include cows and rabbits."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-96",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Human",
+          "Lizard",
+          "Dog",
+          "Bird"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-97",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "4",
+          "3",
+          "1",
+          "2"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-98",
+        "q": "Plants release ___ during the day. (Advanced Concept)",
+        "options": [
+          "Carbon Dioxide",
+          "Oxygen",
+          "Hydrogen",
+          "Nitrogen"
+        ],
+        "a": "Oxygen",
+        "explanation": "This is a byproduct of photosynthesis."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-99",
+        "q": "Which animal is cold-blooded? (Advanced Concept)",
+        "options": [
+          "Dog",
+          "Bird",
+          "Human",
+          "Lizard"
+        ],
+        "a": "Lizard",
+        "explanation": "Reptiles cannot regulate their body temperature internally."
+      },
+      {
+        "id": "builder-sci-plants-animals-t-100",
+        "q": "How many chambers does a human heart have? (Advanced Concept)",
+        "options": [
+          "4",
+          "3",
+          "1",
+          "2"
+        ],
+        "a": "4",
+        "explanation": "Two atria and two ventricles."
+      }
+    ]
+  },
+  "hygiene": {
+    "practice": [
+      {
+        "id": "builder-sci-hygiene-p-1",
+        "q": "Which of these is a communicable disease?",
+        "options": [
+          "Cancer",
+          "Common Cold",
+          "Scurvy",
+          "Diabetes"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-p-2",
+        "q": "What is the primary cause of tooth decay?",
+        "options": [
+          "Water",
+          "Fruit",
+          "Sugar",
+          "Milk"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-p-3",
+        "q": "Washing hands with soap kills ___.",
+        "options": [
+          "Water",
+          "Germs",
+          "Soap",
+          "Hands"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-p-4",
+        "q": "How often should you bath to stay clean?",
+        "options": [
+          "Once a year",
+          "Daily",
+          "When raining",
+          "Never"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-p-5",
+        "q": "Which vitamin is obtained from sunlight?",
+        "options": [
+          "Vitamin A",
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-p-6",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Germs",
+          "Soap",
+          "Hands",
+          "Water"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-p-7",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Milk",
+          "Water",
+          "Sugar",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-p-8",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Milk",
+          "Sugar",
+          "Fruit",
+          "Water"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-p-9",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Water",
+          "Hands",
+          "Germs",
+          "Soap"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-p-10",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Cancer",
+          "Diabetes",
+          "Scurvy"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-p-11",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Cancer",
+          "Scurvy",
+          "Common Cold",
+          "Diabetes"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-p-12",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Daily",
+          "Once a year",
+          "When raining",
+          "Never"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-p-13",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Diabetes",
+          "Cancer",
+          "Scurvy"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-p-14",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Cancer",
+          "Common Cold",
+          "Scurvy",
+          "Diabetes"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-p-15",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Cancer",
+          "Scurvy",
+          "Diabetes"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-p-16",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Never",
+          "Daily",
+          "Once a year",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-p-17",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Milk",
+          "Fruit",
+          "Water",
+          "Sugar"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-p-18",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin D",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-p-19",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Germs",
+          "Water",
+          "Soap",
+          "Hands"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-p-20",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Hands",
+          "Soap",
+          "Germs",
+          "Water"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-p-21",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin D",
+          "Vitamin C",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-p-22",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Germs",
+          "Hands",
+          "Water",
+          "Soap"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-p-23",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin A",
+          "Vitamin D"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-p-24",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Diabetes",
+          "Scurvy",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-p-25",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Fruit",
+          "Milk",
+          "Sugar"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-p-26",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Hands",
+          "Soap",
+          "Germs",
+          "Water"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-p-27",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Once a year",
+          "Daily",
+          "Never"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-p-28",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-p-29",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Sugar",
+          "Fruit",
+          "Milk"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-p-30",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Germs",
+          "Soap",
+          "Hands",
+          "Water"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      }
+    ],
+    "challenge": [
+      {
+        "id": "builder-sci-hygiene-c-1",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-2",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Cancer",
+          "Common Cold",
+          "Scurvy",
+          "Diabetes"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-c-3",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Hands",
+          "Water",
+          "Germs",
+          "Soap"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-c-4",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Sugar",
+          "Milk",
+          "Water",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-c-5",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-6",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Scurvy",
+          "Cancer",
+          "Diabetes"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-c-7",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-8",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Never",
+          "Daily",
+          "Once a year",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-c-9",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin C",
+          "Vitamin B12",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-10",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin B12",
+          "Vitamin D",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-11",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Hands",
+          "Germs",
+          "Water",
+          "Soap"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-c-12",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin C",
+          "Vitamin B12",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-13",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Milk",
+          "Sugar",
+          "Water",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-c-14",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Fruit",
+          "Water",
+          "Milk",
+          "Sugar"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-c-15",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Germs",
+          "Hands",
+          "Water",
+          "Soap"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-c-16",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Sugar",
+          "Milk",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-c-17",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Never",
+          "Once a year",
+          "When raining",
+          "Daily"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-c-18",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin A",
+          "Vitamin D"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-19",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Never",
+          "When raining",
+          "Daily",
+          "Once a year"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-c-20",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Never",
+          "Daily",
+          "Once a year"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-c-21",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin D"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-22",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Milk",
+          "Sugar",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-c-23",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Cancer",
+          "Common Cold",
+          "Scurvy",
+          "Diabetes"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-c-24",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-25",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin A",
+          "Vitamin D",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-26",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Milk",
+          "Fruit",
+          "Sugar"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-c-27",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Sugar",
+          "Milk",
+          "Water",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-c-28",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin A",
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-c-29",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Milk",
+          "Sugar",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-c-30",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin D"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      }
+    ],
+    "test": [
+      {
+        "id": "builder-sci-hygiene-t-1",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin C",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-2",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin D",
+          "Vitamin C",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-3",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin A",
+          "Vitamin D",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-4",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Daily",
+          "Never",
+          "Once a year"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-5",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Hands",
+          "Germs",
+          "Water",
+          "Soap"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-6",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Milk",
+          "Fruit",
+          "Sugar",
+          "Water"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-7",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Scurvy",
+          "Common Cold",
+          "Diabetes",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-8",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin B12",
+          "Vitamin A",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-9",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Water",
+          "Soap",
+          "Hands",
+          "Germs"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-10",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Milk",
+          "Sugar",
+          "Water",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-11",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin C",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-12",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Diabetes",
+          "Scurvy",
+          "Common Cold",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-13",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Cancer",
+          "Diabetes",
+          "Scurvy"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-14",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Once a year",
+          "Daily",
+          "Never",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-15",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Diabetes",
+          "Common Cold",
+          "Cancer",
+          "Scurvy"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-16",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Cancer",
+          "Scurvy",
+          "Diabetes",
+          "Common Cold"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-17",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Fruit",
+          "Milk",
+          "Sugar"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-18",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Diabetes",
+          "Scurvy",
+          "Common Cold",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-19",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Sugar",
+          "Milk",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-20",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Diabetes",
+          "Scurvy",
+          "Common Cold",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-21",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Cancer",
+          "Diabetes",
+          "Scurvy",
+          "Common Cold"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-22",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-23",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Cancer",
+          "Scurvy",
+          "Diabetes",
+          "Common Cold"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-24",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Hands",
+          "Germs",
+          "Soap",
+          "Water"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-25",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Never",
+          "Daily",
+          "Once a year",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-26",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Never",
+          "Once a year",
+          "Daily"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-27",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Scurvy",
+          "Common Cold",
+          "Diabetes",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-28",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Once a year",
+          "Daily",
+          "Never",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-29",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Once a year",
+          "Daily",
+          "Never",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-30",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-31",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-32",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Fruit",
+          "Sugar",
+          "Milk"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-33",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Once a year",
+          "Daily",
+          "Never",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-34",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Water",
+          "Germs",
+          "Soap",
+          "Hands"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-35",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Daily",
+          "When raining",
+          "Never",
+          "Once a year"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-36",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin B12",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-37",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Water",
+          "Soap",
+          "Germs",
+          "Hands"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-38",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin A",
+          "Vitamin C",
+          "Vitamin B12",
+          "Vitamin D"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-39",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Daily",
+          "Once a year",
+          "Never"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-40",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Once a year",
+          "Never",
+          "Daily",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-41",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Never",
+          "Daily",
+          "Once a year",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-42",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Germs",
+          "Hands",
+          "Soap",
+          "Water"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-43",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Diabetes",
+          "Common Cold",
+          "Scurvy",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-44",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Scurvy",
+          "Cancer",
+          "Diabetes"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-45",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-46",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Soap",
+          "Hands",
+          "Germs",
+          "Water"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-47",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Sugar",
+          "Water",
+          "Fruit",
+          "Milk"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-48",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Water",
+          "Hands",
+          "Germs",
+          "Soap"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-49",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin A",
+          "Vitamin D"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-50",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-51",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Scurvy",
+          "Common Cold",
+          "Cancer",
+          "Diabetes"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-52",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin A",
+          "Vitamin D",
+          "Vitamin B12",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-53",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin D",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-54",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Once a year",
+          "Daily",
+          "Never"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-55",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Once a year",
+          "Daily",
+          "Never"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-56",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Water",
+          "Soap",
+          "Germs",
+          "Hands"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-57",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Once a year",
+          "Never",
+          "Daily"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-58",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Scurvy",
+          "Cancer",
+          "Diabetes",
+          "Common Cold"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-59",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Germs",
+          "Soap",
+          "Hands",
+          "Water"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-60",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Diabetes",
+          "Cancer",
+          "Common Cold",
+          "Scurvy"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-61",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Daily",
+          "Never",
+          "When raining",
+          "Once a year"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-62",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin D",
+          "Vitamin C",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-63",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Cancer",
+          "Diabetes",
+          "Scurvy",
+          "Common Cold"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-64",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Scurvy",
+          "Diabetes",
+          "Common Cold",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-65",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Hands",
+          "Water",
+          "Soap",
+          "Germs"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-66",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Diabetes",
+          "Cancer",
+          "Common Cold",
+          "Scurvy"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-67",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Fruit",
+          "Milk",
+          "Sugar",
+          "Water"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-68",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Fruit",
+          "Milk",
+          "Water",
+          "Sugar"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-69",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Once a year",
+          "Never",
+          "Daily"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-70",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Fruit",
+          "Milk",
+          "Sugar"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-71",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Never",
+          "Once a year",
+          "When raining",
+          "Daily"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-72",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Diabetes",
+          "Common Cold",
+          "Scurvy",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-73",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Fruit",
+          "Sugar",
+          "Milk",
+          "Water"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-74",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Water",
+          "Milk",
+          "Fruit",
+          "Sugar"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-75",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Soap",
+          "Germs",
+          "Water",
+          "Hands"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-76",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-77",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Diabetes",
+          "Scurvy",
+          "Common Cold",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-78",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Scurvy",
+          "Diabetes",
+          "Cancer",
+          "Common Cold"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-79",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Soap",
+          "Hands",
+          "Germs",
+          "Water"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-80",
+        "q": "What is the primary cause of tooth decay? (Advanced Concept)",
+        "options": [
+          "Sugar",
+          "Milk",
+          "Water",
+          "Fruit"
+        ],
+        "a": "Sugar",
+        "explanation": "Bacteria turn sugar into acid that erodes enamel."
+      },
+      {
+        "id": "builder-sci-hygiene-t-81",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Soap",
+          "Water",
+          "Hands",
+          "Germs"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-82",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin A",
+          "Vitamin D",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-83",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Soap",
+          "Hands",
+          "Water",
+          "Germs"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-84",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Once a year",
+          "Daily",
+          "Never"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-85",
+        "q": "Washing hands with soap kills ___. (Advanced Concept)",
+        "options": [
+          "Hands",
+          "Soap",
+          "Water",
+          "Germs"
+        ],
+        "a": "Germs",
+        "explanation": "Soap breaks down the outer layer of viruses and bacteria."
+      },
+      {
+        "id": "builder-sci-hygiene-t-86",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Diabetes",
+          "Cancer",
+          "Scurvy"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-87",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin A",
+          "Vitamin D",
+          "Vitamin B12",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-88",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Diabetes",
+          "Cancer",
+          "Scurvy"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-89",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin C",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-90",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Daily",
+          "Once a year",
+          "Never",
+          "When raining"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-91",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Once a year",
+          "Never",
+          "Daily"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-92",
+        "q": "Which of these is a communicable disease? (Advanced Concept)",
+        "options": [
+          "Common Cold",
+          "Scurvy",
+          "Diabetes",
+          "Cancer"
+        ],
+        "a": "Common Cold",
+        "explanation": "It spreads from person to person."
+      },
+      {
+        "id": "builder-sci-hygiene-t-93",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-94",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin C",
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin D"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-95",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "When raining",
+          "Once a year",
+          "Daily",
+          "Never"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-96",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin D",
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin A"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-97",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin B12",
+          "Vitamin D",
+          "Vitamin A",
+          "Vitamin C"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-98",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin A",
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin B12"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      },
+      {
+        "id": "builder-sci-hygiene-t-99",
+        "q": "How often should you bath to stay clean? (Advanced Concept)",
+        "options": [
+          "Never",
+          "Daily",
+          "When raining",
+          "Once a year"
+        ],
+        "a": "Daily",
+        "explanation": "Daily bathing removes sweat and dirt."
+      },
+      {
+        "id": "builder-sci-hygiene-t-100",
+        "q": "Which vitamin is obtained from sunlight? (Advanced Concept)",
+        "options": [
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin D"
+        ],
+        "a": "Vitamin D",
+        "explanation": "It's important for bone health."
+      }
+    ]
+  },
+  "neighborhood": {
+    "practice": [
+      {
+        "id": "builder-sci-neighborhood-p-1",
+        "q": "Who treats sick animals?",
+        "options": [
+          "Doctor",
+          "Dentist",
+          "Veterinarian",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-2",
+        "q": "A place where people go to buy stamps and send parcels:",
+        "options": [
+          "Bank",
+          "Post Office",
+          "Park",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-3",
+        "q": "Where do we go to deposit or withdraw money?",
+        "options": [
+          "Gym",
+          "Bank",
+          "Library",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-4",
+        "q": "The head of a school is called a:",
+        "options": [
+          "Chef",
+          "Principal",
+          "Mayor",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-5",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Bank",
+          "Park",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-6",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Bank",
+          "Temple",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-7",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Doctor",
+          "Veterinarian",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-8",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Captain",
+          "Principal",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-9",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Library",
+          "Bank",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-10",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Pharmacist",
+          "Veterinarian",
+          "Doctor",
+          "Dentist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-11",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Mayor",
+          "Chef",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-12",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Principal",
+          "Mayor",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-13",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "School",
+          "Park",
+          "Bank"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-14",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "School",
+          "Park",
+          "Bank"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-15",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Doctor",
+          "Dentist",
+          "Veterinarian",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-16",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Bank",
+          "Temple",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-17",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Park",
+          "School",
+          "Bank",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-18",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Park",
+          "Post Office",
+          "Bank"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-19",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Park",
+          "Bank",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-20",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Captain",
+          "Mayor",
+          "Principal",
+          "Chef"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-21",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Temple",
+          "Gym",
+          "Library"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-22",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "Park",
+          "School",
+          "Bank"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-23",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Park",
+          "Post Office",
+          "Bank",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-24",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Pharmacist",
+          "Dentist",
+          "Veterinarian",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-25",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Mayor",
+          "Chef",
+          "Captain",
+          "Principal"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-26",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Mayor",
+          "Principal",
+          "Chef",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-27",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Temple",
+          "Library",
+          "Bank"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-28",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Principal",
+          "Captain",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-29",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Bank",
+          "Temple",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-p-30",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Pharmacist",
+          "Doctor",
+          "Dentist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      }
+    ],
+    "challenge": [
+      {
+        "id": "builder-sci-neighborhood-c-1",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Bank",
+          "Temple",
+          "Library"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-2",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Chef",
+          "Captain",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-3",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Temple",
+          "Gym",
+          "Library"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-4",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Library",
+          "Bank",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-5",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Mayor",
+          "Principal",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-6",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Gym",
+          "Library",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-7",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Mayor",
+          "Principal",
+          "Captain",
+          "Chef"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-8",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "Park",
+          "Bank",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-9",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Mayor",
+          "Principal",
+          "Chef",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-10",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Captain",
+          "Chef",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-11",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Temple",
+          "Gym",
+          "Bank",
+          "Library"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-12",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Bank",
+          "Park",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-13",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Pharmacist",
+          "Doctor",
+          "Dentist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-14",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Park",
+          "School",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-15",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Captain",
+          "Principal",
+          "Mayor",
+          "Chef"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-16",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Temple",
+          "Gym",
+          "Library",
+          "Bank"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-17",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Mayor",
+          "Principal",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-18",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Mayor",
+          "Chef",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-19",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Doctor",
+          "Veterinarian",
+          "Dentist",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-20",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Chef",
+          "Mayor",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-21",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Park",
+          "Post Office",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-22",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Park",
+          "School",
+          "Bank",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-23",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Mayor",
+          "Principal",
+          "Chef",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-24",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Park",
+          "Post Office",
+          "Bank",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-25",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Temple",
+          "Bank",
+          "Library",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-26",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "School",
+          "Park",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-27",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Dentist",
+          "Doctor",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-28",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Temple",
+          "Library",
+          "Bank",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-29",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Temple",
+          "Library",
+          "Bank"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-c-30",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Park",
+          "Bank",
+          "School",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      }
+    ],
+    "test": [
+      {
+        "id": "builder-sci-neighborhood-t-1",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Doctor",
+          "Veterinarian",
+          "Pharmacist",
+          "Dentist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-2",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Principal",
+          "Mayor",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-3",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "Park",
+          "Bank",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-4",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Dentist",
+          "Doctor",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-5",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Doctor",
+          "Pharmacist",
+          "Veterinarian"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-6",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Doctor",
+          "Pharmacist",
+          "Dentist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-7",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Post Office",
+          "School",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-8",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Temple",
+          "Gym",
+          "Library",
+          "Bank"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-9",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Gym",
+          "Temple",
+          "Library"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-10",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Pharmacist",
+          "Veterinarian",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-11",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Pharmacist",
+          "Veterinarian",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-12",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Post Office",
+          "Park",
+          "Bank"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-13",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "School",
+          "Park",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-14",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Captain",
+          "Mayor",
+          "Chef",
+          "Principal"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-15",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Mayor",
+          "Captain",
+          "Principal",
+          "Chef"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-16",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Captain",
+          "Chef",
+          "Principal",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-17",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Park",
+          "Bank",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-18",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "Bank",
+          "School",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-19",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Dentist",
+          "Doctor",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-20",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Bank",
+          "Library",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-21",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Mayor",
+          "Chef",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-22",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Library",
+          "Bank",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-23",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "School",
+          "Park",
+          "Bank"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-24",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Pharmacist",
+          "Veterinarian",
+          "Doctor",
+          "Dentist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-25",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Captain",
+          "Mayor",
+          "Principal"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-26",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Captain",
+          "Mayor",
+          "Principal",
+          "Chef"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-27",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Temple",
+          "Bank",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-28",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Post Office",
+          "School",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-29",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Mayor",
+          "Captain",
+          "Principal"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-30",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Post Office",
+          "School",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-31",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "School",
+          "Post Office",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-32",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Captain",
+          "Chef",
+          "Principal",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-33",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Mayor",
+          "Principal",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-34",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Captain",
+          "Chef",
+          "Principal",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-35",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Mayor",
+          "Chef",
+          "Principal",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-36",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Principal",
+          "Captain",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-37",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Temple",
+          "Gym",
+          "Library"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-38",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Pharmacist",
+          "Doctor",
+          "Dentist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-39",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Doctor",
+          "Dentist",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-40",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Captain",
+          "Principal",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-41",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Temple",
+          "Gym",
+          "Bank",
+          "Library"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-42",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Mayor",
+          "Captain",
+          "Chef"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-43",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Bank",
+          "Post Office",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-44",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Gym",
+          "Bank",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-45",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Temple",
+          "Bank",
+          "Library"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-46",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "School",
+          "Park",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-47",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Temple",
+          "Library",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-48",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Dentist",
+          "Pharmacist",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-49",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Pharmacist",
+          "Doctor",
+          "Veterinarian"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-50",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Doctor",
+          "Pharmacist",
+          "Veterinarian"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-51",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "Bank",
+          "School",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-52",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Pharmacist",
+          "Dentist",
+          "Veterinarian",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-53",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Gym",
+          "Bank",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-54",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "Bank",
+          "Park",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-55",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Post Office",
+          "School",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-56",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Dentist",
+          "Pharmacist",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-57",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Temple",
+          "Gym",
+          "Library",
+          "Bank"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-58",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Pharmacist",
+          "Veterinarian",
+          "Dentist",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-59",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Doctor",
+          "Veterinarian",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-60",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Mayor",
+          "Principal",
+          "Captain",
+          "Chef"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-61",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Park",
+          "School",
+          "Post Office",
+          "Bank"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-62",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Pharmacist",
+          "Doctor",
+          "Veterinarian"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-63",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Pharmacist",
+          "Dentist",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-64",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Library",
+          "Gym",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-65",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Park",
+          "Bank",
+          "Post Office",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-66",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Bank",
+          "Library",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-67",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Pharmacist",
+          "Dentist",
+          "Doctor",
+          "Veterinarian"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-68",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Gym",
+          "Bank",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-69",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Captain",
+          "Chef",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-70",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Veterinarian",
+          "Pharmacist",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-71",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "School",
+          "Post Office",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-72",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Chef",
+          "Captain",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-73",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "School",
+          "Bank",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-74",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Temple",
+          "Bank",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-75",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Doctor",
+          "Veterinarian",
+          "Dentist",
+          "Pharmacist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-76",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Park",
+          "School",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-77",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Veterinarian",
+          "Pharmacist",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-78",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Temple",
+          "Library",
+          "Bank"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-79",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Park",
+          "Bank",
+          "Post Office"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-80",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Bank",
+          "Temple",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-81",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Park",
+          "School",
+          "Post Office",
+          "Bank"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-82",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Gym",
+          "Bank",
+          "Temple",
+          "Library"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-83",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Captain",
+          "Chef",
+          "Principal",
+          "Mayor"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-84",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Mayor",
+          "Captain",
+          "Chef",
+          "Principal"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-85",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Library",
+          "Bank",
+          "Temple",
+          "Gym"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-86",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Doctor",
+          "Pharmacist",
+          "Veterinarian",
+          "Dentist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-87",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Post Office",
+          "School",
+          "Bank",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-88",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Mayor",
+          "Captain",
+          "Chef"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-89",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Chef",
+          "Mayor",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-90",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Principal",
+          "Mayor",
+          "Chef",
+          "Captain"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-91",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Chef",
+          "Mayor",
+          "Captain",
+          "Principal"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-92",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Post Office",
+          "Bank",
+          "Park"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-93",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "School",
+          "Post Office",
+          "Park",
+          "Bank"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-94",
+        "q": "The head of a school is called a: (Advanced Concept)",
+        "options": [
+          "Captain",
+          "Principal",
+          "Mayor",
+          "Chef"
+        ],
+        "a": "Principal",
+        "explanation": "The principal leads the school staff and students."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-95",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Pharmacist",
+          "Dentist",
+          "Doctor"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-96",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Veterinarian",
+          "Doctor",
+          "Pharmacist",
+          "Dentist"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-97",
+        "q": "Who treats sick animals? (Advanced Concept)",
+        "options": [
+          "Dentist",
+          "Pharmacist",
+          "Doctor",
+          "Veterinarian"
+        ],
+        "a": "Veterinarian",
+        "explanation": "Often called a 'Vet'."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-98",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Post Office",
+          "Park",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-99",
+        "q": "A place where people go to buy stamps and send parcels: (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Park",
+          "Post Office",
+          "School"
+        ],
+        "a": "Post Office",
+        "explanation": "Post offices manage mail."
+      },
+      {
+        "id": "builder-sci-neighborhood-t-100",
+        "q": "Where do we go to deposit or withdraw money? (Advanced Concept)",
+        "options": [
+          "Bank",
+          "Library",
+          "Gym",
+          "Temple"
+        ],
+        "a": "Bank",
+        "explanation": "Banks are financial institutions."
+      }
+    ]
+  }
+}

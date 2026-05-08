@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <text x="300" y="50" fill="#ffffff" font-family="sans-serif" font-weight="black" font-size="24" text-anchor="middle">DISADVANTAGES OF FOSSIL FUELS</text>
+
+  <!-- Factory Pollution -->
+  <g transform="translate(200, 150)">
+    <rect width="200" height="100" fill="#1e293b" stroke="#f43f5e" stroke-width="2"/>
+    <rect x="20" y="-50" width="30" height="50" fill="#475569"/>
+    <rect x="150" y="-50" width="30" height="50" fill="#475569"/>
+    
+    <!-- Smoke -->
+    <circle cx="35" cy="-70" r="15" fill="#94a3b8" opacity="0.6">
+       <animate attributeName="cy" from="-70" to="-120" dur="2s" repeatCount="indefinite"/>
+       <animate attributeName="opacity" values="0.6;0" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <text x="100" y="130" fill="#f43f5e" font-family="sans-serif" font-weight="bold" font-size="14" text-anchor="middle">SMOG & GLOBAL WARMING</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <!-- Hill -->
+  <path d="M0 400 L200 100 Q 300 50 400 100 L600 400 Z" fill="#1e293b"/>
+  
+  <!-- Potential Energy Ball -->
+  <circle cx="300" cy="65" r="20" fill="#f59e0b"/>
+  <text x="300" y="35" fill="#f59e0b" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">POTENTIAL ENERGY</text>
+  <text x="300" y="50" fill="#f59e0b" font-family="sans-serif" font-size="10" text-anchor="middle">(Stored due to height)</text>
+  
+  <!-- Kinetic Energy Ball -->
+  <circle cx="500" cy="250" r="20" fill="#6366f1"/>
+  <path d="M530 250 L570 250" stroke="#6366f1" stroke-width="4" marker-end="url(#arrow-blue)"/>
+  <text x="500" y="220" fill="#6366f1" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">KINETIC ENERGY</text>
+  <text x="500" y="235" fill="#6366f1" font-family="sans-serif" font-size="10" text-anchor="middle">(Energy of motion)</text>
+  
+  <text x="300" y="350" fill="#ffffff" font-family="sans-serif" font-weight="black" font-size="20" text-anchor="middle">ENERGY TRANSFORMATION</text>
+
+  <defs>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="0" refY="3" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#6366f1" />
+    </marker>
+  </defs>
+</svg>

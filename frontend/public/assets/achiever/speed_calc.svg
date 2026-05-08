@@ -1,0 +1,18 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <!-- Speedometer -->
+  <circle cx="300" cy="220" r="120" fill="none" stroke="#1e293b" stroke-width="20"/>
+  <path d="M180 220 A 120 120 0 0 1 420 220" fill="none" stroke="#6366f1" stroke-width="20" stroke-dasharray="10,2"/>
+  
+  <!-- Needle -->
+  <line x1="300" y1="220" x2="380" y2="140" stroke="#f43f5e" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="300" cy="220" r="10" fill="#f43f5e"/>
+  
+  <!-- Formula -->
+  <rect x="150" y="50" width="300" height="80" rx="15" fill="#1e293b" stroke="#6366f1" stroke-width="2"/>
+  <text x="300" y="95" fill="#6366f1" font-family="sans-serif" font-weight="black" font-size="28" text-anchor="middle">SPEED = D / T</text>
+  
+  <!-- Examples -->
+  <text x="300" y="370" fill="#94a3b8" font-family="sans-serif" font-size="14" text-anchor="middle">Uniform Speed: Equal distance in equal time</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <!-- Renewable -->
+  <g transform="translate(50, 80)">
+    <rect width="230" height="280" rx="20" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
+    <text x="115" y="40" fill="#10b981" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">RENEWABLE</text>
+    <!-- Icons -->
+    <circle cx="80" cy="100" r="20" fill="#f59e0b"/> <!-- Sun -->
+    <path d="M150 80 L150 120 M130 100 L170 100" stroke="#38bdf8" stroke-width="4"/> <!-- Wind -->
+    <text x="115" y="240" fill="#ffffff" font-family="sans-serif" font-weight="bold" font-size="14" text-anchor="middle">NEVER ENDS</text>
+    <text x="115" y="260" fill="#94a3b8" font-family="sans-serif" font-size="10" text-anchor="middle">Solar, Wind, Water</text>
+  </g>
+
+  <!-- Non-Renewable -->
+  <g transform="translate(320, 80)">
+    <rect width="230" height="280" rx="20" fill="#1e293b" stroke="#f43f5e" stroke-width="2"/>
+    <text x="115" y="40" fill="#f43f5e" font-family="sans-serif" font-weight="black" font-size="16" text-anchor="middle">NON-RENEWABLE</text>
+    <!-- Icons -->
+    <rect x="70" y="80" width="40" height="40" fill="#475569"/> <!-- Coal -->
+    <path d="M140 120 L160 120 L150 80 Z" fill="#ef4444"/> <!-- Oil drop shape -->
+    <text x="115" y="240" fill="#ffffff" font-family="sans-serif" font-weight="bold" font-size="14" text-anchor="middle">CAN EXHAUST</text>
+    <text x="115" y="260" fill="#94a3b8" font-family="sans-serif" font-size="10" text-anchor="middle">Coal, Petrol, Gas</text>
+  </g>
+  
+  <text x="300" y="40" fill="#ffffff" font-family="sans-serif" font-weight="black" font-size="24" text-anchor="middle">COMPARING ENERGY SOURCES</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="20" fill="#020617"/>
+  
+  <!-- Regular -->
+  <g transform="translate(50, 50)">
+    <rect width="230" height="300" rx="15" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
+    <text x="115" y="30" fill="#10b981" font-family="sans-serif" font-weight="black" font-size="14" text-anchor="middle">REGULAR REFLECTION</text>
+    <line x1="40" y1="250" x2="190" y2="250" stroke="#94a3b8" stroke-width="4"/>
+    <!-- Parallel incoming -->
+    <path d="M60 100 L100 250" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow-white-small)"/>
+    <path d="M100 100 L140 250" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow-white-small)"/>
+    <!-- Parallel outgoing -->
+    <path d="M100 250 L140 100" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow-white-small)"/>
+    <path d="M140 250 L180 100" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow-white-small)"/>
+    <text x="115" y="280" fill="#94a3b8" font-family="sans-serif" font-size="10" text-anchor="middle">Smooth Surface (Mirror)</text>
+  </g>
+  
+  <!-- Diffused -->
+  <g transform="translate(320, 50)">
+    <rect width="230" height="300" rx="15" fill="#1e293b" stroke="#f43f5e" stroke-width="2"/>
+    <text x="115" y="30" fill="#f43f5e" font-family="sans-serif" font-weight="black" font-size="14" text-anchor="middle">DIFFUSED REFLECTION</text>
+    <path d="M40 250 Q 60 230 80 260 Q 110 240 140 255 Q 170 230 190 250" stroke="#94a3b8" stroke-width="4" fill="none"/>
+    <!-- Parallel incoming -->
+    <path d="M60 100 L100 245" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow-white-small)"/>
+    <path d="M100 100 L140 255" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow-white-small)"/>
+    <!-- Scattered outgoing -->
+    <path d="M100 245 L50 150" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow-white-small)"/>
+    <path d="M140 255 L180 180" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow-white-small)"/>
+    <text x="115" y="280" fill="#94a3b8" font-family="sans-serif" font-size="10" text-anchor="middle">Rough Surface (Wall)</text>
+  </g>
+
+  <defs>
+    <marker id="arrow-white-small" markerWidth="6" markerHeight="6" refX="0" refY="2" orientation="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,4 L6,2 z" fill="#ffffff" />
+    </marker>
+  </defs>
+</svg>
